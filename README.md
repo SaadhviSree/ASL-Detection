@@ -26,11 +26,11 @@ Output Prediction Using Live Video Input
 OpenCV(cv2), Numpy, Tensorflow, Keras, Scikit-Learn, Os, Sqlite3, Pyttsx3, Tkinter
 
 # How to use the project?
-- Create Histogram
+- Create Histogram :
   Press 'C' to differentiate skin colour from background. Keep repeating this. Once satisfied, press 'S' to save Histogram
-- Regognise Gesture
+- Regognise Gesture :
   Open the Recognise Gesture option. The live camera now takes in input. Hold the needed gesture in the box for 10 frames and wait for the gesture to get recognised
-- Fetch Output
+- Fetch Output :
   Remove your hand from the box and now you will hear the automated voice speaking the output message
 
 # Applications
