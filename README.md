@@ -25,6 +25,10 @@ Output Prediction Using Live Video Input
 # Libraries Used
 OpenCV(cv2), Numpy, Tensorflow, Keras, Scikit-Learn, Os, Sqlite3, Pyttsx3, Tkinter
 
+# Architechture Diagram
+![image](https://github.com/SaadhviSree/ASL-Detection/assets/129571759/bc90a93a-6556-4a86-b3c4-43e8c49146bf)
+
+
 # How to use the project?
 - Create Histogram :
   Press 'C' to differentiate skin colour from background. Keep repeating this. Once satisfied, press 'S' to save Histogram
